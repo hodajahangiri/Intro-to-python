@@ -30,7 +30,6 @@ try:
         print(f"Total Cost: ${total_cost}")
         print("Thank you for your purchase!")
 
-
 except ValueError:
     print("Please Enter valid  age and number of tickets...")
 except Exception as e:
