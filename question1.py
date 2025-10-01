@@ -1,4 +1,4 @@
-
+# Movie Ticket Pricing
 ticket_type = ""
 total_cost = 0
 ticket_price = 0
